@@ -1,0 +1,96 @@
+1. Quels sont les avantages et les inconvénients à pouvoir utiliser un ordinateur pour automatiser certaines parties du travail d'un professionnel de l'information et de la documentation ?
+
+Avantages
+•	Gain de temps une fois mis en place
+
+•	Elimine l’erreur humaine
+
+•	Les professionnels peuvent réaliser d’autres tâches pendant l’automatisation.
+
+•	Réduit les coûts de l’entreprise
+
+•	Augmente la qualité des tâches
+
+•	Compétitivité de l’entreprise
+
+•	Développe une visibilité sur Internet
+
+•	Autonomie des lecteurs avec l’implémentation d’un automate de prêt
+
+•	Augmente la productivité
+
+•	Maintien et augmentation de la qualité
+
+•	Amélioration des performances
+
+•	Réduction de la pénibilité de travail
+
+Inconvénients
+
+•	Prend du temps pour créer de l’automatisation
+
+•	Demande des critères de qualité pour chaque opération
+
+•	Il faut réfléchir à ce qu’il faut automatiser
+
+•	Prive des emplois
+
+•	Coût de l’argent pour la maintenance
+
+•	Nécessite de nouvelle compétences
+
+•	Chaque logiciel a des limites
+
+•	Formations par des développeurs qui peuvent prendre du temps
+
+•	Délais de déplacement des techniciens peut être longue
+
+•	Les badges pour le prêt peuvent être oubliés ou perdus
+
+2. Quelles sont les évolutions souhaitables pour nos catalogues dans les années à venir et quels sont les enjeux de ces évolutions ?
+
+Le Web sémantique
+
+Le Web sémantique est un ensemble de technologies et de normes créées dans le cadre du W3C (institution qui normalise le web)
+qui a pour vocation de partager et de structurer des données sur le web. Ces données structurées sont accessibles via des pages.
+Afin que les robots puissent indexer ces pages, il faut leur donner des informations détaillées sur le contenu. Le web sémantique est basé
+sur une grammaire, le « Ressource Description Framework ». Cette grammaire consiste à exprimer des informations en phrase courte qui sont
+structurées par un triplet sujet, prédicat, objet. Les données vont être structurées par des phrases simples qui seront connectées les
+unes aux autres et créer un graphe. Ce graphe est le modèle qui va relier tous les triplets. Toutes les informations sont reliées entre
+elles quelles que soient leur structure à l’opposition des catalogues habituel. Habituellement, dans un catalogue de bibliothèque, d’un
+côté existera l’information bibliographique (données bibliographiques) et d’un autre côté des notices des autorités qui ne seront pas
+structurées de la même manière. Dans un modèle de graphe, on décrit des objets, des lieux, des personnes et la navigation se fait très
+aisément d’une personne à un objet, d’un objet à un sujet. Le but final est de constituer un graphe géant qui représente toutes les bases
+de données du Web Sémantique liée entre elles.
+
+L’évolution des catalogues de bibliothèques dans le Web sémantique
+
+La visibilité sur Internet
+
+Aujourd’hui la visibilité joue un rôle extrêmement important dans les pratiques des bibliothèques. Pour être visible, les bibliothèques
+doivent adopter les technologies du Web. Si les bibliothèques utilisent ces technologies elles vont décloisonner les données de catalogues,
+ les relier avec d’autres et donc les rendre plus visibles sur le Web Sémantique (améliorer le référencement, relier des données de
+ bibliothèques avec des archives ou des musées). Pour faciliter l’échange de données, l’ « open data » a été mise en place. C’est une
+ initiative qui encourage les détenteurs de bases de données - donc des données structurées –  à suivre le modèle RDF, à le partager sur
+ Internet et à relier leurs données à d’autres données présentes sur le web. L’interopérabilité  est la mise en relation des données
+ contenues dans des bases de données, de les décloisonner pour offrir un espace commun de navigation et de recherche dans une institution.
+   Les bibliothèques ont des bases de données différentes pour le traitement bibliographique. La liaison entre ces différentes bases de
+   données est ce qu’on appelle l’interopérabilité. Le web est l’interface la plus interopérable de nos jours, car c’est un espace
+   décloisonné qui met en relation des données au niveau global.
+
+Le Modèle FRBR
+
+Le modèle FRBR est un modèle conceptuel qui donne une vision synthétique et simplifiée d’une activité au sein d’un catalogue
+puisqu’il s’agit de spécifications requises pour  les notices bibliographiques. C’est un modèle entité-relations qui analyse l’information
+contenue dans les catalogues en tant que réseau de données liées entre elles et centrées autour des entités pour décrire l’information
+bibliographique. Dans un catalogue d’information, une entité correspond aux différents aspects qui existent dans un document. Le modèle va
+lister les attributs, c’est-à-dire les caractéristiques qui va distinguer une entité d’une autre.
+
+Prenons l’exemple (exemple pris de la vidéo explicative) d’un film réalisé par Jacques Rivete : « ne touchez pas la hache ». Ce film est
+inspiré du livre de Honoré de Balzac, « La duchesse de Langeais ». Si une personne souhaite réaliser un travail académique sur ce livre,
+elle va chercher par exemple une étude critique de « La duchesse de Langeais ». Dans le modèle FRBR, ces trois ressources sont des
+« œuvres ». Ces œuvres ont des « auteurs ». Le film a été réalisé par Jacques Rivete et le roman a été écrit par Honoré de Balzac.
+Les œuvres vont avoir différentes versions : on peut s’intéresser à une œuvre écrite, à une œuvre racontée ;  les personnes peuvent
+également choisir de le lire en français, en allemand ou dans tout autre langue. Cette entité va s’appeler « expression ». Ces expressions
+vont être caractérisées par des entités éditoriales comme Gallimard, Flammarion, etc. qui, dans le modèle FRBR vont se nommer
+« manifestation ». Les entités vont créer des liens entre elles dont la résultante est le modèle FRBR.
