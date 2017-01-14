@@ -3,8 +3,7 @@ body
   background-color: #F7FDFF;
   padding: 0 3.5em;
   font-family: Arial, sans-serif;	
-  font-size: 14px;
-  
+  font-size: 14px;  
 }
 
 h1
@@ -17,7 +16,20 @@ h1
 h2
 {
  color: #436EE6;
- text-align: center;
-  font-size:26px;
+ text-align: left;
+ font-size:26px;
 }
- 
+
+h3
+{
+  color: #4759E3;
+  text-align: left;
+  font-size: 23px;
+}
+
+h4
+{
+  color: #8E9BFE;
+  text-align: left;
+  font-size: 21px;
+}
