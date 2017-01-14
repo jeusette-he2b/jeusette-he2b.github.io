@@ -3,6 +3,7 @@ body
   background-color: #F7FDFF;
   padding: 0 3.5em;
   font-family: Arial, sans-serif;	
+  font-size:14px
   
 }
 
@@ -10,11 +11,13 @@ h1
 {
  text-align: center;
  color: #173484;
+ font-size: 32px;
 }
 
 h2
 {
  color: #436EE6;
  text-align: center;
+  font-size:26px 
 }
  
