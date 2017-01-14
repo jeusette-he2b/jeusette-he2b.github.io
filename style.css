@@ -6,13 +6,13 @@ body {
 h1
 {
   font-size: 32px;
-  font-family:Arial, Helvetica, sans-serif;
-  color:#DC2E2E
-  padding:16px;
-  font-weight:lighter; 
-  text-align:center;
-  display:block;
-  margin:16px; 
+  font-family: Arial, Helvetica, sans-serif;
+  color: #DC2E2E
+  padding: 16px;
+  font-weight: lighter; 
+  text-align: center;
+  display: block;
+  margin: 16px; 
 }
 
 h2
@@ -22,7 +22,6 @@ h2
  color: #59BDD9
  padding:3.5em;
  font-weight:lighter; 
- text-align:left;
  display:block;
- margin:16px;
+ margin:3.5em;
 }
