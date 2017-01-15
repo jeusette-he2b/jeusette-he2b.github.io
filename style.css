@@ -3,7 +3,8 @@ body
   background-color: #F7FDFF;
   padding: 0 3.5em;
   font-family: Arial, sans-serif;	
-  font-size: 14px;  
+  font-size: 14px; 
+  text-align: justify;
 }
 
 h1
